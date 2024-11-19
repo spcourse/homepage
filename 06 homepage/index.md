@@ -33,7 +33,9 @@ subject to the following requirements:
 - Your stylesheet(s) must use at least five different CSS properties, and at
   least five different types of CSS selectors. You must use the `#id` selector
   at least once, and the `.class` selector at least once.
-- Images may not be larger than 1MB.
+- Images may not be larger than 1MB. Your total submission shouldn't be larger than 5MB. **Larger submissions will fail!**
+
+> Keep in mind that this exercise is mainly here for practice. While it can be loads of fun to make a complicated website, we are just doing this to get familiar with HTML. Make sure to not invest too much time!
 
 ## Tips
 
